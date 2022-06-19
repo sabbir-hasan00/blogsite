@@ -241,6 +241,11 @@ margin-right: 1rem;
     display: flex;
    flex-direction: column;
 }
+    
+    .c-media button{
+    width: 40% !important;
+ 
+} 
  }
 @media (max-width: 600px){
  
